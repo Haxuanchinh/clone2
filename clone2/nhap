@@ -1,0 +1,157 @@
+                <div class="col-xl-6 item col-12" id="lunch">
+                    <div class="row">
+                        <div class="col-md-5 col-12">
+                            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-2.jpeg" class="">
+                        </div>
+                        <div class="col-md-7 col-12">
+                            <ul class="nav justify-content-between">
+                                <li class="nav-item title">diner double</li>
+                                <li class="nav-item price">$13.99</li>
+                            </ul>
+                            <p class="des mt-2">
+                                vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats
+                            </p>
+                        </div>
+                    </div>
+                   
+            </div>
+            
+            <div class="col-xl-6 item col-12" id="shakes">
+                <div class="row">
+                    <div class="col-md-5 col-12">
+                        <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-3.jpeg" class="">
+                    </div>
+                    <div class="col-md-7 col-12">
+                        <ul class="nav justify-content-between">
+                            <li class="nav-item title">godzilla milkshake</li>
+                            <li class="nav-item price">$6.99</li>
+                        </ul>
+                        <p class="des mt-2">
+                            ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.
+                        </p>
+                    </div>
+                </div>
+               
+        </div>
+        <div class="col-xl-6 item col-12" id="breakfast">
+                <div class="row">
+                    <div class="col-md-5 col-12">
+                        <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-4.jpeg" class="">
+                    </div>
+                    <div class="col-md-7 col-12">
+                        <ul class="nav justify-content-between">
+                            <li class="nav-item title">country delight</li>
+                            <li class="nav-item price">$20.99</li>
+                        </ul>
+                        <p class="des mt-2">
+                            Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut,
+                        </p>
+                    </div>
+                </div>
+               
+        </div>
+        <div class="col-xl-6 item col-12" id="lunch">
+            <div class="row">
+                <div class="col-md-5 col-12">
+                    <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-5.jpeg" class="">
+                </div>
+                <div class="col-md-7 col-12">
+                    <ul class="nav justify-content-between">
+                        <li class="nav-item title">egg attack</li>
+                        <li class="nav-item price">$22.09</li>
+                    </ul>
+                    <p class="des mt-2">
+                        franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up
+                    </p>
+                </div>
+            </div>
+           
+    </div>
+        
+   
+<div class="col-xl-6 item col-12" id="shakes">
+    <div class="row">
+        <div class="col-md-5 col-12">
+            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-6.jpeg" class="">
+        </div>
+        <div class="col-md-7 col-12">
+            <ul class="nav justify-content-between">
+                <li class="nav-item title">oreo dream</li>
+                <li class="nav-item price">$18.99</li>
+            </ul>
+            <p class="des mt-2">
+                Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday
+            </p>
+        </div>
+    </div>
+   
+</div>
+<div class="col-xl-6 item col-12" id="breakfast">
+    <div class="row">
+        <div class="col-md-5 col-12">
+            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-7.jpeg" class="">
+        </div>
+        <div class="col-md-7 col-12">
+            <ul class="nav justify-content-between">
+                <li class="nav-item title">bacon overflow</li>
+                <li class="nav-item price">$8.99</li>
+            </ul>
+            <p class="des mt-2">
+                carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird 
+            </p>
+        </div>
+    </div>
+   
+</div>
+
+<div class="col-xl-6 item col-12" id="lunch">
+    <div class="row">
+        <div class="col-md-5 col-12">
+            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-8.jpeg" class="">
+        </div>
+        <div class="col-md-7 col-12">
+            <ul class="nav justify-content-between">
+                <li class="nav-item title">american classic</li>
+                <li class="nav-item price">$12.99</li>
+            </ul>
+            <p class="des mt-2">
+                on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut
+            </p>
+        </div>
+    </div>
+   
+</div>
+<div class="col-xl-6 item col-12" id="shakes">
+    <div class="row">
+        <div class="col-md-5 col-12">
+            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-9.jpeg" class="">
+        </div>
+        <div class="col-md-7 col-12">
+            <ul class="nav justify-content-between">
+                <li class="nav-item title">quarantine buddy</li>
+                <li class="nav-item price">$16.99</li>
+            </ul>
+            <p class="des mt-2">
+                skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.
+            </p>
+        </div>
+    </div>
+   
+</div>
+<div class="col-xl-6 item col-12" id="dinner">
+    <div class="row">
+        <div class="col-md-5 col-12">
+            <img src="https://vietvk96.github.io/bai-tap-js-so-3/image/test/item-10.jpeg" class="">
+        </div>
+        <div class="col-md-7 col-12">
+            <ul class="nav justify-content-between">
+                <li class="nav-item title">bison steak</li>
+                <li class="nav-item price">$22.99</li>
+            </ul>
+            <p class="des mt-2">
+                skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.
+            </p>
+        </div>
+    </div>
+   
+</div>
